@@ -1,0 +1,53 @@
+---
+title: "Exercise 1"
+author: "Clint Rooker"
+date: "9/16/2020"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+Name: J. Clinton Rooker
+
+Department Address: 1050 Bascom Mall, Madison, WI 53706
+
+Email: jcrooker@wisc.edu 
+
+Phone: (810) 333-6245
+
+Education: 
+University of Michigan 
+Ann Arbor, MI
+Political Science BA
+2013-2017
+
+Current: 
+University of Wisconsin-Madison
+Madison, WI
+Political Science, PhD
+2020 - 
+
+Research Experience: 
+Research Consultant 
+Cornell University (current)
+08/2020-Present
+
+Research Coordinator
+University of Chicago 
+08/2019-1/2020
+
+Teaching Experience
+Writing Instructor, UW-Madison PEOPLE Program
+
+Awards:
+University Fellowship, UW-Madison 2020-2021, 2023-2024
+
+Publications 
+(Under Review) Ezell, Jerel and John C. Rooker, 2020. "A population-based assessment of physical symptoms and mental health outcomes among adults following the Flint Water Crisis"
+
+References
+Jerel Ezell 
+Vincent Hutchings 
+Kathy Cramer 
+
+
