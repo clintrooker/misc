@@ -3,9 +3,10 @@ title: "Exercise 1"
 author: "Clint Rooker"
 date: "9/16/2020"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
+CV Basic Info
 
 Name: J. Clinton Rooker
 
